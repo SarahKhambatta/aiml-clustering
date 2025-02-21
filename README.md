@@ -1,7 +1,5 @@
 README.md
-markdown
-Copy
-Edit
+
 # 🚀 Machine Learning Clustering Project
 
 This project focuses on **unsupervised learning** techniques to group similar data points into clusters. We explore **K-Means Clustering, Hierarchical Clustering, and DBSCAN** using Python.
